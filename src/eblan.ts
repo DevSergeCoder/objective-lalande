@@ -67,5 +67,5 @@
     return sum;
   }
 
-  console.log(sumTree(tree)); //108
+  console.log(sumTree(tree)); // result 108
 }
