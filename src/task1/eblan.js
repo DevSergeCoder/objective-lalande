@@ -58,7 +58,7 @@ function sumTree(tree) {
     }
     if (!el.c) return;
   }
-  console.log("test");
+  console.log("test remote");
   return sum;
 }
 console.log(sumTree(tree)); //108
